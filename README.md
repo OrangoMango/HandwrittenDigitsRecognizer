@@ -14,6 +14,7 @@ Short video about it: [YouTube Shorts](https://youtube.com/shorts/ZE2NT-mdVBc?si
 * Draw a number on the left (left mouse button) and the network will tell you what number it is and the confidence.
 * Use the `DELETE` key to clear the canvas
 * Use the digits from `0` to `9` to train the network while using it (for example if it recognizes some digits wrongly)
+* Use the `L` key to load a random image of the database
 
 All the training data is saved in the file `training.txt`
 
