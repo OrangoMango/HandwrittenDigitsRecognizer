@@ -1,6 +1,6 @@
 # HandwrittenDigitsRecognizer
 Handwritten digits recognizer by using a neural network.  
-Short video about it: [YouTube](https://youtube.com/shorts/ZE2NT-mdVBc?si=nZa1vGP0JAuYuont)
+Short video about it: [YouTube Shorts](https://youtube.com/shorts/ZE2NT-mdVBc?si=nZa1vGP0JAuYuont)
 
 # How to use
 * Download the MNIST training images from [here](http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz)
