@@ -1,5 +1,6 @@
 # HandwrittenDigitsRecognizer
-Handwritten digits recognizer using a neural network
+Handwritten digits recognizer by using a neural network.  
+Short video about it: [YouTube](https://youtube.com/shorts/ZE2NT-mdVBc?si=nZa1vGP0JAuYuont)
 
 # How to use
 * Download the MNIST training images from [here](http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz)
@@ -15,3 +16,6 @@ Handwritten digits recognizer using a neural network
 * Use the digits from `0` to `9` to train the network while using it (for example if it recognizes some digits wrongly)
 
 All the training data is saved in the file `training.txt`
+
+# Screenshot
+![Screenshot from 2024-06-16 10-48-39](https://github.com/OrangoMango/HandwrittenDigitsRecognizer/assets/61402409/4866073f-8b18-4dd2-bc1c-e757dcd15a07)
